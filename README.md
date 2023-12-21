@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Knight1357
-- 狗东西
+# 不玩原神我是不认可的
+# I don't approve of not playing the Genshine

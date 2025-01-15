@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **Knight1357/Knight1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,15 +45,15 @@ Chasing a light beyond reach.
 
 #### Current
 
-![current](https://skillicons.dev/icons?i=react,fastapi,python,md,cpp,c,docker&perline=6&theme=dark)
+![current](https://skillicons.dev/icons?i=react,mongodb,fastapi,python,md,nodejs,js,cpp,c,docker&perline=6&theme=dark)
 
 #### Used
 
-![used](https://skillicons.dev/icons?i=mongodb,mysql,nodejs,js,r,rust&perline=6&theme=dark)
+![used](https://skillicons.dev/icons?i=vue,prometheus,r,rust,mysql,raspberrypi,vim,java&perline=6&theme=dark)
 
 #### Tools
 
-![tools](https://skillicons.dev/icons?i=github,vscode,linux,apple,git,obsidian&perline=6&theme=dark)
+![tools](https://skillicons.dev/icons?i=github,vscode,linux,anaconda,apple,git,obsidian&perline=6&theme=dark)
 
 
 <p align="center">

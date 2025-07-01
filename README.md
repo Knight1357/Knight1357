@@ -45,11 +45,11 @@ Chasing a light beyond reach.
 
 #### Current
 
-![current](https://skillicons.dev/icons?i=react,mongodb,fastapi,python,md,nodejs,js,cpp,c,docker&perline=6&theme=dark)
+![current](https://skillicons.dev/icons?i=python,md,cpp,c,docker,mongodb&perline=6&theme=dark)
 
 #### Used
 
-![used](https://skillicons.dev/icons?i=vue,prometheus,r,rust,mysql,raspberrypi,vim,java&perline=6&theme=dark)
+![used](https://skillicons.dev/icons?i=r,raspberrypi,vim,java&perline=6&theme=dark)
 
 #### Tools
 
